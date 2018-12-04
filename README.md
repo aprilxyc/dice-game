@@ -13,5 +13,7 @@ score.
 
 First player to reach 100 points (total score) wins the game!
 
+![Alt Text](https://github.com/ac-asks/pig-game/blob/master/pig-game.gif)
+
 
 

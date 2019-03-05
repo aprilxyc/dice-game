@@ -1,5 +1,5 @@
 # Pig Game
-This is my first ever side project in Javascript! I followed Jonas Schmedtmann's
+I followed Jonas Schmedtmann's
 tutorial to build this: [The Complete JavaScript Course 2018](https://www.udemy.com/the-complete-javascript-course/learn/v4/)
 
 ## Game rules

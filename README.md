@@ -1,4 +1,4 @@
-# Pig Game
+# Dice Game
 I followed Jonas Schmedtmann's
 tutorial to build this: [The Complete JavaScript Course 2018](https://www.udemy.com/the-complete-javascript-course/learn/v4/)
 
